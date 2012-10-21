@@ -1,0 +1,10 @@
+---
+layout: post
+title: "test"
+date: 2012-10-21 17:38
+comments: true
+categories: 汉{han}
+---
+
+***A***
+中文
