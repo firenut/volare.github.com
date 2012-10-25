@@ -1,2 +1,21 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+html{
+		background-image: url("/images/body-wood.png");
+		background-color: #B0B083;
+		background-repeat: repeat;
+}
+
+body > header {
+    background: none repeat scroll 0 0 #485D78;
+		 background-image: url("/images/body-bg5-xiewen.png");
+
+}
+
+//font
+$sans: Palatino, "Palatino Linotype", Georgia， "Hiragino Sans GB", "文泉驿微米黑", "Microsoft YaHei","SimSun", sans-serif;
+$serif: "Baskerville", "文泉驿微米黑", serif;
+//$mono:"PT mono", "Courier", "文泉驿微米黑", "Microsoft YaHei", monospace;
+$heading-font-family: "Verdana", 楷体_GB2312, sans-serif;
+$header-title-font-family: "Futura", sans-serif;
+

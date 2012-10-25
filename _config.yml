@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://volare.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Man Tianyang's Zen Garden
+subtitle: just do do do do do it...
+author: Bodhi'maN
 simple_search: http://google.com/search
 description:
 
@@ -33,8 +33,7 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-#category_title_prefix: "Category: "
-category_title_prefix: '文章分類: '
+category_title_prefix: "Category: "
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
@@ -91,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: vo571
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
